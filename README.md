@@ -2,6 +2,6 @@
 
 Ciao sono Pippo!
 
-Guida per il corso DSK101
+Guida per il corso DSK101 - Non distratevi! :)
 
 Test
